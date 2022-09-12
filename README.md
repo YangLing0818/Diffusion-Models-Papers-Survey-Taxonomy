@@ -29,6 +29,7 @@ This repo is constructed for collecting and categorizing papers about diffusion 
 ### Autoregressive Models
 ### Energy-Based Models
 ## Citing
+If you find this work useful, please cite our paper:
 ```
 @article{yang2022diffusion,
   title={Diffusion Models: A Comprehensive Survey of Methods and Applications},
