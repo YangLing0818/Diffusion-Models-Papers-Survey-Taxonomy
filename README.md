@@ -1,5 +1,14 @@
 # Diffusion Models: A Comprehensive Survey of Methods and Applications
 This repo is constructed for collecting and categorizing papers about diffusion models according to our survey paper——[_**Diffusion Models: A Comprehensive Survey of Methods and Applications**_](https://arxiv.org/abs/2209.00796)
+
+[Algorithm Taxonomy](#1)
+
+[Application Taxonomy](#2)
+
+[Connections with Other Generative Models](#3)
+
+<p id="1"></p>
+
 ## Algorithm Taxonomy
 ### Sampling-Acceleration Enhancement
 #### Discretization Optimization
@@ -90,6 +99,9 @@ State-Spaces](https://proceedings.neurips.cc/paper/2021/hash/958c530554f78bcd8e9
 
 [Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign
 Pose Sequences Generation](https://arxiv.org/abs/2208.09141)
+
+<p id="2"></p>
+
 ## Application Taxonomy
 ### Computer Vision
 ### Natural Language Processing
@@ -98,6 +110,9 @@ Pose Sequences Generation](https://arxiv.org/abs/2208.09141)
 ### Time-Series Modeling
 ### Adversarial Purification
 ### Waveform Signal Processing
+
+<p id="3"></p>
+
 ## Connections with Other Generative Models
 ### Variational Autoencoder
 ### Generative Adversarial Network
