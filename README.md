@@ -47,7 +47,14 @@ sample quality](https://openreview.net/forum?id=VFBjuF8HEp)
 [ Truncated Diffusion Probabilistic Models](https://arxiv.org/abs/2202.09671)
 ### Likelihood-Maximization Enhancement
 #### Noise Schedule Optimization
+[Variational diffusion models](https://proceedings.neurips.cc/paper/2021/hash/b578f2a52a0229873fefc2a4b06377fa-Abstract.html)
+
+[ Improved denoising diffusion probabilistic models](https://proceedings.mlr.press/v139/nichol21a.html)
 #### Learnable Reverse Variance
+[Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models](https://openreview.net/forum?id=0xiJLKH-ufZ)
+
+[ Improved denoising diffusion probabilistic models](https://proceedings.mlr.press/v139/nichol21a.html)
+
 #### Objectives Designing
 [Maximum likelihood training of score-based diffusion models](https://proceedings.neurips.cc/paper/2021/hash/0a9fdbb17feb6ccb7ec405cfb85222c4-Abstract.html)
 
@@ -60,7 +67,29 @@ ODEs by High Order Denoising Score Matching](https://proceedings.mlr.press/v162/
 Theory](https://proceedings.neurips.cc/paper/2021/hash/c11abfd29e4d9b4d4b566b01114d8486-Abstract.html)
 ### Data-Generalization Enhancement
 #### Feature Space Unification
+[Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY)
+
+[Score-based generative modeling in latent space](https://proceedings.neurips.cc/paper/2021/hash/5dca4c6b9e244d24a30b4c45601d9720-Abstract.html)
+
+[Riemannian Score-Based Generative
+Modeling](https://arxiv.org/abs/2202.02763)
+
+[ Diffusion priors in variational autoencoders](https://orbi.uliege.be/handle/2268/262334)
 #### Data-Dependent Transition Kernels
+[ GeoDiff: A Geometric Diffusion Model for Molecular
+Conformation Generation](https://openreview.net/forum?id=PzcvxEMzvQC)
+
+[Permutation invariant graph generation via
+score-based generative modeling](http://proceedings.mlr.press/v108/niu20a)
+
+[Vector quantized diffusion model
+for text-to-image synthesis](https://openaccess.thecvf.com/content/CVPR2022/html/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.html)
+
+[Structured Denoising Diffusion Models in Discrete
+State-Spaces](https://proceedings.neurips.cc/paper/2021/hash/958c530554f78bcd8e97125b70e6973d-Abstract.html)
+
+[Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign
+Pose Sequences Generation](https://arxiv.org/abs/2208.09141)
 ## Application Taxonomy
 ### Computer Vision
 ### Natural Language Processing
