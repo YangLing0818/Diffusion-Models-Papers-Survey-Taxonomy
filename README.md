@@ -2,6 +2,7 @@
 This repo is constructed for collecting and categorizing papers about diffusion models according to our survey paper——[_**Diffusion Models: A Comprehensive Survey of Methods and Applications**_](https://arxiv.org/abs/2209.00796)
 ## Algorithm Taxonomy
 ### Sampling-Acceleration Enhancement
+#### Discretization Optimization
 [Come-closer-diffuse-faster: Accelerating conditional diffusion models for inverse
 problems through stochastic contraction](https://openaccess.thecvf.com/content/CVPR2022/html/Chung_Come-Closer-Diffuse-Faster_Accelerating_Conditional_Diffusion_Models_for_Inverse_Problems_Through_Stochastic_CVPR_2022_paper.html)
 
@@ -27,9 +28,6 @@ through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG
 Through Sample Quality](https://openreview.net/forum?id=VFBjuF8HEp)
 
 [Fast Sampling of Diffusion Models with Exponential Integrator](https://arxiv.org/abs/2204.13902)
-#### Discretization Optimization
-##### SDE Solver
-##### ODE Solver
 #### Non-Markovian Process
 #### Partial Sampling
 ### Likelihood-Maximization Enhancement
