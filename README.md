@@ -34,8 +34,8 @@ This repo is constructed for collecting and categorizing papers about diffusion 
 * [Variational Autoencoder](#3.1)
 * [Generative Adversarial Network](#3.2)
 * [Normalizing Flow](#3.3)
-* [Autoregressive Models](#3.5)
-* [Energy-Based Models](#3.6)
+* [Autoregressive Models](#3.4)
+* [Energy-Based Models](#3.5)
 
 <p id="1"></p>
 
@@ -256,18 +256,29 @@ Pose Sequences Generation](https://arxiv.org/abs/2208.09141)
 <p id="3.1"></p>
 
 ### 1. Variational Autoencoder
+- [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
+- [A variational perspective on diffusion-based generative models and score matching](https://proceedings.neurips.cc/paper/2021/hash/c11abfd29e4d9b4d4b566b01114d8486-Abstract.html)
+- [Score-based generative modeling in latent space](https://proceedings.neurips.cc/paper/2021/hash/5dca4c6b9e244d24a30b4c45601d9720-Abstract.html)
 <p id="3.2"></p>
 
 ### 2. Generative Adversarial Network
+  - [Diffusion-GAN: Training GANs with Diffusion. ](https://arxiv.org/abs/2206.02262)
+  - [Tackling the generative learning trilemma with denoising diffusion gans](https://openreview.net/forum?id=JprM0p-q0Co)
 <p id="3.3"></p>
 
 ### 3. Normalizing Flow
+  - [Diffusion Normalizing Flow](https://proceedings.neurips.cc/paper/2021/hash/876f1f9954de0aa402d91bb988d12cd4-Abstract.html)
+  - [Interpreting diffusion score matching using normalizing flow](https://openreview.net/forum?id=jxsmOXCDv9l)
 <p id="3.4"></p>
 
 ### 4. Autoregressive Models
+  - [Autoregressive Diffusion Models. ](https://openreview.net/forum?id=Lm8T39vLDTE)
+  - [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting. ](http://proceedings.mlr.press/v139/rasul21a.html)
 <p id="3.5"></p>
 
 ### 5. Energy-Based Models
+  - [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc)
+  - [Latent Diffusion Energy-Based Model for Interpretable Text Modeling](https://proceedings.mlr.press/v162/yu22h.html)
 ## Citing
 If you find this work useful, please cite our paper:
 ```
