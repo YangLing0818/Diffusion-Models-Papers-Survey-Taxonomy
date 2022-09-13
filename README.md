@@ -16,17 +16,11 @@ This repo is constructed for collecting and categorizing papers about diffusion 
 
 [Application Taxonomy](#2)
 * [Computer Vision](#2.1)
-
 * [Natural Language Processing](#2.2)
-
 * [Multi-Modal Learning](#2.3)
-
 * [Molecular Graph Modeling](#2.4)
-
 * [Time-Series Modeling](#2.5)
-
 * [Adversarial Purification](#2.6)
-
 * [Waveform Signal Processing](#2.7)
 
 
