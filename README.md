@@ -1,20 +1,20 @@
 # Diffusion Models: A Comprehensive Survey of Methods and Applications
 This repo is constructed for collecting and categorizing papers about diffusion models according to our survey paper——[_**Diffusion Models: A Comprehensive Survey of Methods and Applications**_](https://arxiv.org/abs/2209.00796)
 # Catalogue
-[Algorithm Taxonomy](#1)
-* [Sampling-Acceleration Enhancement](#1.1)
+## [Algorithm Taxonomy](#1)
+### * [Sampling-Acceleration Enhancement](#1.1)
   - [Discretization Optimization](#1.1.1)
   - [Non-Markovian Process](#1.1.2)
   - [Partial Sampling](#1.1.3)
-* [Likelihood-Maximization Enhancement](#1.2)
+### * [Likelihood-Maximization Enhancement](#1.2)
   - [Noise Schedule Optimization](#1.2.1)
   - [Learnable Reverse Variance](#1.2.2)
   - [Objectives Designing](#1.2.3)
-* [Data-Generalization Enhancement](#1.3)
+### * [Data-Generalization Enhancement](#1.3)
   - [Feature Space Unification](#1.3.1)
   - [Data-Dependent Transition Kernels](#1.3.2)
 
-[Application Taxonomy](#2)
+## [Application Taxonomy](#2)
 * [Computer Vision](#2.1)
 * [Natural Language Processing](#2.2)
 * [Multi-Modal Learning](#2.3)
@@ -24,7 +24,7 @@ This repo is constructed for collecting and categorizing papers about diffusion 
 * [Waveform Signal Processing](#2.7)
 
 
-[Connections with Other Generative Models](#3)
+## [Connections with Other Generative Models](#3)
 * [Variational Autoencoder](#3.1)
 * [Generative Adversarial Network](#3.2)
 * [Normalizing Flow](#3.3)
