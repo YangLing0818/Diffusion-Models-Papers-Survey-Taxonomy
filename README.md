@@ -280,6 +280,16 @@ If you find this work useful, please cite our paper:
 ```
 @article{yang2022diffusion,
   title={Diffusion Models: A Comprehensive Survey of Methods and Applications},
+  author={Yang, Ling and Zhang, Zhilong and Hong, Shenda},
+  journal={arXiv preprint arXiv:2209.00796},
+  year={2022}
+}
+```
+or
+
+```
+@article{yang2022diffusion,
+  title={Diffusion Models: A Comprehensive Survey of Methods and Applications},
   author={Yang, Ling and Zhang, Zhilong and Hong, Shenda and Xu, Runsheng and Zhao, Yue and Shao, Yingxia and Zhang, Wentao and Yang, Ming-Hsuan and Cui, Bin},
   journal={arXiv preprint arXiv:2209.00796},
   year={2022}
