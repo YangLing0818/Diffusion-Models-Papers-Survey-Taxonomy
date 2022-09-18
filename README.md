@@ -5,15 +5,15 @@ This repo is constructed for collecting and categorizing papers about diffusion 
 
 # Catalogue
 ## [Algorithm Taxonomy](#1)
-### * [Sampling-Acceleration Enhancement](#1.1)
+### [Sampling-Acceleration Enhancement](#1.1)
   - [Discretization Optimization](#1.1.1)
   - [Non-Markovian Process](#1.1.2)
   - [Partial Sampling](#1.1.3)
-### * [Likelihood-Maximization Enhancement](#1.2)
+### [Likelihood-Maximization Enhancement](#1.2)
   - [Noise Schedule Optimization](#1.2.1)
   - [Learnable Reverse Variance](#1.2.2)
   - [Objectives Designing](#1.2.3)
-### * [Data-Generalization Enhancement](#1.3)
+### [Data-Generalization Enhancement](#1.3)
   - [Feature Space Unification](#1.3.1)
   - [Data-Dependent Transition Kernels](#1.3.2)
 
@@ -211,7 +211,6 @@ Pose Sequences Generation](https://arxiv.org/abs/2208.09141)
     - [Zero-Shot Voice Conditioning for Denoising Diffusion TTS Models](https://arxiv.org/abs/2206.02246)
     - [EdiTTS: Score-based Editing for Controllable Text-to-Speech.](https://arxiv.org/abs/2110.02584)
     - [ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech.](https://arxiv.org/abs/2207.06389)
-    - [Guided-TTS 2: A Diffusion Model for
 <p id="2.4"></p>
 
 ### 4. Molecular Graph Modeling
