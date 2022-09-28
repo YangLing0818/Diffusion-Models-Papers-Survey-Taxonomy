@@ -280,9 +280,18 @@ Pose Sequences Generation](https://arxiv.org/abs/2208.09141)
 ## Citing
 If you find this work useful, please cite our paper:
 ```
-@article{yang2022diffusion,
+@article{Yang2022DiffusionMA,
   title={Diffusion Models: A Comprehensive Survey of Methods and Applications},
   author={Yang, Ling and Zhang, Zhilong and Hong, Shenda},
+  journal={arXiv preprint arXiv:2209.00796},
+  year={2022}
+}
+```
+or 
+```
+@article{Yang2022DiffusionMA,
+  title={Diffusion Models: A Comprehensive Survey of Methods and Applications},
+  author={Ling Yang and Zhilong Zhang and Shenda Hong and Runsheng Xu and Yue Zhao and Yingxia Shao and Wentao Zhang and Ming-Hsuan Yang and Bin Cui},
   journal={arXiv preprint arXiv:2209.00796},
   year={2022}
 }
