@@ -139,6 +139,9 @@ Conformation Generation](https://openreview.net/forum?id=PzcvxEMzvQC)
 [Permutation invariant graph generation via
 score-based generative modeling](http://proceedings.mlr.press/v108/niu20a)
 
+[Score-based Generative Modeling of Graphs via
+the System of Stochastic Differential Equations](https://proceedings.mlr.press/v162/jo22a.html)
+
 [Vector quantized diffusion model
 for text-to-image synthesis](https://openaccess.thecvf.com/content/CVPR2022/html/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.html)
 
