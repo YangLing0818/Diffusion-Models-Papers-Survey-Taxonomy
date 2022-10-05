@@ -370,7 +370,7 @@ or
 ```
 @article{Yang2022DiffusionMA,
   title={Diffusion Models: A Comprehensive Survey of Methods and Applications},
-  author={Ling Yang and Zhilong Zhang and Shenda Hong and Runsheng Xu and Yue Zhao and Yingxia Shao and Wentao Zhang and Ming-Hsuan Yang and Bin Cui},
+  author={Ling Yang and Zhilong Zhang and Yang Song and Shenda Hong and Runsheng Xu and Yue Zhao and Yingxia Shao and Wentao Zhang and Bin Cui and Ming-Hsuan Yang},
   journal={arXiv preprint arXiv:2209.00796},
   year={2022}
 }
