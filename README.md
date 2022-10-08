@@ -217,6 +217,7 @@ Thermodynamics.](https://openreview.net/forum?id=rkbVIoZdWH)
     - [Solving Inverse Problems in Medical Imaging with Score-Based Generative Models](https://openreview.net/forum?id=vaRCHVj0uGI)
     - [MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion](https://arxiv.org/abs/2203.12621)
     - [Sdedit: Guided image synthesis and editing with stochastic differential equations](https://arxiv.org/abs/2108.01073)
+    - [Soft diffusion: Score matching for general corruptions](https://web7.arxiv.org/abs/2209.05442)
 <p id="2.1.2"></p >
 
   - Semantic Segmentation
@@ -360,17 +361,8 @@ Thermodynamics.](https://openreview.net/forum?id=rkbVIoZdWH)
 If you find this work useful, please cite our paper:
 ```
 @article{Yang2022DiffusionMA,
-  title={Diffusion Models: A Comprehensive Survey of Methods and Applications},
-  author={Yang, Ling and Zhang, Zhilong and Hong, Shenda},
-  journal={arXiv preprint arXiv:2209.00796},
-  year={2022}
-}
-```
-or 
-```
-@article{Yang2022DiffusionMA,
-  title={Diffusion Models: A Comprehensive Survey of Methods and Applications},
-  author={Ling Yang and Zhilong Zhang and Yang Song and Shenda Hong and Runsheng Xu and Yue Zhao and Yingxia Shao and Wentao Zhang and Bin Cui and Ming-Hsuan Yang},
+  title={Diffusion models: A comprehensive survey of methods and applications},
+  author={Yang, Ling and Zhang, Zhilong and Song, Yang and Hong, Shenda and Xu, Runsheng and Zhao, Yue and Shao, Yingxia and Zhang, Wentao and Cui, Bin and Yang, Ming-Hsuan},
   journal={arXiv preprint arXiv:2209.00796},
   year={2022}
 }
