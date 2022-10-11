@@ -325,6 +325,8 @@ Thermodynamics.](https://openreview.net/forum?id=rkbVIoZdWH)
   - [Solving Inverse Problems in Medical Imaging with Score-Based Generative Models](https://openreview.net/forum?id=vaRCHVj0uGI)
   - [MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion](https://arxiv.org/abs/2203.12621)
   - [Score-based diffusion models for accelerated MRI](https://arxiv.org/abs/2110.05243)
+  - [Towards performant and reliable undersampled MR reconstruction via diffusion model sampling](https://arxiv.org/pdf/2203.04292.pdf)
+  - [Come-closer-diffuse-faster: Accelerating conditional diffusion models for inverse problems through stochastic contraction](https://openaccess.thecvf.com/content/CVPR2022/papers/Chung_Come-Closer-Diffuse-Faster_Accelerating_Conditional_Diffusion_Models_for_Inverse_Problems_Through_Stochastic_CVPR_2022_paper.pdf)
 
 
 
