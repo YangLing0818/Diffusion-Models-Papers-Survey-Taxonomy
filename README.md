@@ -1,21 +1,27 @@
 # Diffusion Models: A Comprehensive Survey of Methods and Applications
 This repo is constructed for collecting and categorizing papers about diffusion models according to our survey paper——[_**Diffusion Models: A Comprehensive Survey of Methods and Applications**_](https://arxiv.org/abs/2209.00796)
 # Overview
-<div aligncenter><img width="800" alt="image" src="https://user-images.githubusercontent.com/62683396/193984590-e424d030-b6cd-49d4-b4d1-d9d4e4d13a27.png">
+<div aligncenter><img width="800" alt="image" src="https://user-images.githubusercontent.com/62683396/196304789-47b99af6-a2a9-48ba-b035-a7b4a0db9f08.png">
 
 
 # Catalogue
 ## [Algorithm Taxonomy](#1)
 ### [Sampling-Acceleration Enhancement](#1.1)
   - [Learning-Free Sampling](#1.1.1)
+    - [SDE Solver](#1.1.1.1)
+    - [ODE Solver](#1.1.1.2)
   - [Learning-Based Sampling](#1.1.2)
+    - [Optimized Discretization](#1.1.2.1)
+    - [Knowledge Distillation](#1.1.2.2)
+    - [Truncated Diffusion](#1.1.2.3)
 ### [Likelihood-Maximization Enhancement](#1.2)
   - [Noise Schedule Optimization](#1.2.1)
-  - [Learnable Reverse Variance](#1.2.2)
-  - [Continuous-Time VLB](#1.2.3)
-  - [Exact Log likelihood](#1.2.4)
-### [Data-Generalization Enhancement](#1.3)
-  - [Manifold Structures](#1.3.1)
+  - [Reverse Variance Learning](#1.2.2)
+  - [Exact Likelihood Computation](#1.2.3)
+### [Data with Special Structures](#1.3)
+  - [Data with Manifold Structures](#1.3.1)
+    - [Known Manifolds](#1.3.1.1)
+    - [Learned Manifolds](#1.3.1.2)
   - [Data with Invariant Structures](#1.3.2)
   - [Discrete Data](#1.3.3)
 
@@ -37,7 +43,7 @@ This repo is constructed for collecting and categorizing papers about diffusion 
 * [Robust Learning](#2.5)
 * [Molecular Graph Modeling](#2.6)
 * [Material Design](#2.7)
-* [Inverse Problem Solving (Medical Imaging)](#2.8)
+* [Medical Image Reconstruction](#2.8)
 
 
 
@@ -48,21 +54,23 @@ This repo is constructed for collecting and categorizing papers about diffusion 
 * [Autoregressive Models](#3.4)
 * [Energy-Based Models](#3.5)
 
-<p id="1"></p>
+<p id="1"></p >
 
 ## Algorithm Taxonomy
 <p id="1.1"></p >
 
-### 1. Sampling-Acceleration Enhancement
+### 1. Efficient Sampling
 <p id="1.1.1"></p >
 
-#### 1.1.1 Learning-Free Sampling
+#### 1.1 Learning-Free Sampling
 <p id="1.1.1.1"></p >
 
-##### 1.1.1.1 SDE Solver
+##### 1.1.1 SDE Solver
 
 [Score-Based Generative Modeling
 through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG12RRHS)
+
+[Adversarial score matching and improved sampling for image generation](https://openreview.net/forum?id=eLfqMl3z3lq)
 
 [Come-closer-diffuse-faster: Accelerating conditional diffusion models for inverse
 problems through stochastic contraction](https://openaccess.thecvf.com/content/CVPR2022/html/Chung_Come-Closer-Diffuse-Faster_Accelerating_Conditional_Diffusion_Models_for_Inverse_Problems_Through_Stochastic_CVPR_2022_paper.html)
@@ -74,6 +82,8 @@ problems through stochastic contraction](https://openaccess.thecvf.com/content/C
 Score-Based Models](https://arxiv.org/abs/2105.14080)
 
 [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)
+
+[Generative modeling by estimating gradients of the data distribution](https://proceedings.neurips.cc/paper/2019/hash/3001ef257407d5a371a96dcd947c7d93-Abstract.html)
 <p id="1.1.1.2"></p >
 
 ##### 1.1.2 ODE Solver
@@ -87,6 +97,7 @@ Score-Based Models](https://arxiv.org/abs/2105.14080)
 [ DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model
 Sampling in Around 10 Step](https://arxiv.org/abs/2206.00927)
 
+[Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY)
 
 [Fast Sampling of Diffusion Models with Exponential Integrator](https://arxiv.org/abs/2204.13902)
 <p id="1.1.2"></p >
@@ -94,8 +105,13 @@ Sampling in Around 10 Step](https://arxiv.org/abs/2206.00927)
 #### 1.2 Learning-Based Sampling
 <p id="1.1.2.1"></p >
 
-##### 1.2.1 Dynamic Programming
+##### 1.2.1 Optimized Discretization
 [Learning to Efficiently Sample from Diffusion Probabilistic Models](https://arxiv.org/abs/2106.03802)
+
+[GENIE: Higher-Order Denoising Diffusion Solvers](https://arxiv.org/abs/2210.05475)
+
+[Learning fast samplers for diffusion models by differentiating through
+sample quality](https://openreview.net/forum?id=VFBjuF8HEp)
 <p id="1.1.2.2"></p >
 
 ##### 1.2.2 Knowledge Distillation
@@ -104,40 +120,37 @@ Sampling in Around 10 Step](https://arxiv.org/abs/2206.00927)
 [Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed](https://arxiv.org/abs/2101.02388)
 <p id="1.1.2.3"></p >
 
-##### 1.2.3 Early Stopping
+##### 1.2.3 Truncated Diffusion
 [Accelerating Diffusion Models via Early Stop of the Diffusion Process](https://arxiv.org/abs/2205.12524)
 
-[ Truncated Diffusion Probabilistic Models](https://arxiv.org/abs/2202.09671)
+[Truncated Diffusion Probabilistic Models](https://arxiv.org/abs/2202.09671)
 <p id="1.2"></p >
 
-### 2. Likelihood-Maximization Enhancement
+### 2. Improved Likelihood
 <p id="1.2.1"></p >
 
 #### 2.1. Noise Schedule Optimization
-<p id="1.2.1.1"></p >
 
-##### 2.1.1 Deterministic Schedule
 
 [ Improved denoising diffusion probabilistic models](https://proceedings.mlr.press/v139/nichol21a.html)
-<p id="1.2.1.2"></p >
 
-##### 2.1.2 Learnable Schedule
 [Variational diffusion models](https://proceedings.neurips.cc/paper/2021/hash/b578f2a52a0229873fefc2a4b06377fa-Abstract.html)
 <p id="1.2.2"></p >
 
-#### 2.2. Learnable Reverse Variance
+#### 2.2. Reverse Variance Learning
 [Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models](https://openreview.net/forum?id=0xiJLKH-ufZ)
 
 [ Improved denoising diffusion probabilistic models](https://proceedings.mlr.press/v139/nichol21a.html)
 <p id="1.2.3"></p >
 
-#### 2.3. Continuous-Time VLB
+#### 2.3. Exact Likelihood Computation
+[Score-Based Generative Modeling
+through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG12RRHS)
+
 [Maximum likelihood training of score-based diffusion models](https://proceedings.neurips.cc/paper/2021/hash/0a9fdbb17feb6ccb7ec405cfb85222c4-Abstract.html)
 
 [A variational perspective on diffusion-based generative models and score matching](https://proceedings.neurips.cc/paper/2021/hash/c11abfd29e4d9b4d4b566b01114d8486-Abstract.html)
-<p id="1.2.4"></p >
 
-#### 2.4 Exact Log likelihood
 [Score-Based Generative Modeling
 through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG12RRHS)
 
@@ -145,25 +158,29 @@ through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG
 ODEs by High Order Denoising Score Matching](https://proceedings.mlr.press/v162/lu22f.html)
 <p id="1.3"></p >
 
-### 3. Data-Generalization Enhancement
+### 3. Data with Special Structures
 <p id="1.3.1"></p >
 
-#### 3.1. Manifold Structures
+#### 3.1. Data with Manifold Structures
 <p id="1.3.1.1"></p >
 
-##### 3.1.1 Mapping to Manifolds
-[Score-based generative modeling in latent space](https://proceedings.neurips.cc/paper/2021/hash/5dca4c6b9e244d24a30b4c45601d9720-Abstract.html)
-
-[ Diffusion priors in variational autoencoders](https://orbi.uliege.be/handle/2268/262334)
-<p id="1.3.1.2"></p >
-
-##### 3.1.2 Diffusion on Manifolds
-[Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY)
-
+##### 3.1.1 Known Manifolds
 
 [Riemannian Score-Based Generative
 Modeling](https://arxiv.org/abs/2202.02763)
 
+[Riemannian Diffusion Models](https://arxiv.org/abs/2208.07949)
+<p id="1.3.1.2"></p >
+
+##### 3.1.2 Learned Manifolds
+[Score-based generative modeling in latent space](https://proceedings.neurips.cc/paper/2021/hash/5dca4c6b9e244d24a30b4c45601d9720-Abstract.html)
+
+[ Diffusion priors in variational autoencoders](https://orbi.uliege.be/handle/2268/262334)
+
+[ Hierarchical text-conditional image generation with clip latents](https://arxiv.org/abs/2204.06125)
+
+[High-resolution image synthesis with latent diffusion
+models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)
 <p id="1.3.2"></p >
 
 #### 3.2. Data with Invariant Structures
@@ -175,6 +192,8 @@ score-based generative modeling](http://proceedings.mlr.press/v108/niu20a)
 
 [Score-based Generative Modeling of Graphs via
 the System of Stochastic Differential Equations](https://proceedings.mlr.press/v162/jo22a.html)
+
+[Learning gradient fields for molecular conformation generation](http://proceedings.mlr.press/v139/shi21b.html)
 <p id="1.3.3"></p >
 
 #### 3.3 Discrete Data
@@ -187,8 +206,11 @@ State-Spaces](https://proceedings.neurips.cc/paper/2021/hash/958c530554f78bcd8e9
 [Vector Quantized Diffusion Model with CodeUnet for Text-to-Sign
 Pose Sequences Generation](https://arxiv.org/abs/2208.09141)
 
-[Deep Unsupervised Learning using Nonequilibrium
+[Deep Unsupervised Learning using Non equilibrium
 Thermodynamics.](https://openreview.net/forum?id=rkbVIoZdWH)
+
+[A Continuous Time Framework
+for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 
 <p id="2"></p>
 
@@ -223,6 +245,7 @@ Thermodynamics.](https://openreview.net/forum?id=rkbVIoZdWH)
   - Semantic Segmentation
     - [ Label-Efficient Semantic Segmentation with Diffusion Models.](https://openreview.net/forum?id=SlxSY2UZQT)
     - [Decoder Denoising Pretraining for Semantic Segmentation.](https://arxiv.org/abs/2205.11423)
+    - [Diffusion models as plug-and-play priors](https://arxiv.org/abs/2206.09012)
 <p id="2.1.3"></p >
 
   - Video Generation
@@ -237,6 +260,7 @@ Thermodynamics.](https://openreview.net/forum?id=rkbVIoZdWH)
     - [Diffusion probabilistic models for 3d point cloud generation](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Diffusion_Probabilistic_Models_for_3D_Point_Cloud_Generation_CVPR_2021_paper.html)
     - [A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion](https://openreview.net/forum?id=wqD6TfbYkrn)
     - [Let us Build Bridges: Understanding and Extending Diffusion Generative Models.](https://arxiv.org/abs/2208.14699)
+    - [LION: Latent Point Diffusion Models for 3D Shape Generation](https://arxiv.org/abs/2210.06978)
 <p id="2.1.5"></p >
 
   - Anomaly Detection
@@ -321,7 +345,7 @@ Thermodynamics.](https://openreview.net/forum?id=rkbVIoZdWH)
   - [Antigen-specific antibody design and optimization with diffusion-based generative models](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v1)
 <p id="2.8"></p>
 
-### 8. Inverse Problem Solving (Medical Imaging)
+### 8. Medical Image Reconstruction
   - [Solving Inverse Problems in Medical Imaging with Score-Based Generative Models](https://openreview.net/forum?id=vaRCHVj0uGI)
   - [MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion](https://arxiv.org/abs/2203.12621)
   - [Score-based diffusion models for accelerated MRI](https://arxiv.org/abs/2110.05243)
