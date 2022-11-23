@@ -32,6 +32,7 @@ This repo is constructed for collecting and categorizing papers about diffusion 
   - [Video Generation](#2.1.3)
   - [Point Cloud Completion and Generation](#2.1.4)
   - [Anomaly Detection](#2.1.5)
+  - [Object Detection](#2.1.6)
 * [Natural Language Processing](#2.2)
 * [Temporal Data Modeling](#2.3)
   - [Time-Series Imputation](#2.3.1)
@@ -39,7 +40,8 @@ This repo is constructed for collecting and categorizing papers about diffusion 
   - [Waveform Signal Processing](#2.3.3)
 * [Multi-Modal Learning](#2.4)
   - [Text-to-Image Generation](#2.4.1)
-  - [Text-to-Aaudio Generation](#2.4.2)
+  - [Scene Graph-to-Image Generation](#2.4.2)
+  - [Text-to-Aaudio Generation](#2.4.3)
 * [Robust Learning](#2.5)
 * [Molecular Graph Modeling](#2.6)
 * [Material Design](#2.7)
@@ -220,7 +222,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 ### 1. Computer Vision
 <p id="2.1.1"></p >
 
-  - Image Super Resolution, Inpainting and Translation
+  - Image Super Resolution, Inpainting, Translation and Manipulation
 
     - [SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models](https://www.sciencedirect.com/science/article/pii/S0925231222000522)
 
@@ -239,7 +241,9 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Solving Inverse Problems in Medical Imaging with Score-Based Generative Models](https://openreview.net/forum?id=vaRCHVj0uGI)
     - [MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion](https://arxiv.org/abs/2203.12621)
     - [Sdedit: Guided image synthesis and editing with stochastic differential equations](https://arxiv.org/abs/2108.01073)
-    - [Soft diffusion: Score matching for general corruptions](https://web7.arxiv.org/abs/2209.05442)
+    - [Soft diffusion: Score matching for general corruptions](https://web7.arxiv.org/abs/2209.05442) 
+    - [Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training](https://arxiv.org/abs/2211.11138)
+
 <p id="2.1.2"></p >
 
   - Semantic Segmentation
@@ -266,7 +270,10 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - Anomaly Detection
     - [AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
     - [Remote Sensing Change Detection (Segmentation) using Denoising Diffusion Probabilistic Models.](https://ui.adsabs.harvard.edu/abs/2022arXiv220611892G/abstract)
+<p id="2.1.6"></p >
 
+  - Object Detection
+    - [DiffusionDet: Diffusion Model for Object Detection](https://arxiv.org/abs/2211.09788)
 <p id="2.2"></p>
 
 ### 2. Natural Language Processing
@@ -283,7 +290,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - Time Series Imputation
     - [CSDI: Conditional score-based diffusion models for probabilistic time series imputation](https://proceedings.neurips.cc/paper/2021/hash/cfe8504bda37b575c70ee1a8276f3486-Abstract.html)
     - [Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models](https://arxiv.org/abs/2208.09399)
-    - [ Neural Markov Controlled SDE: Stochastic Optimization for Continuous-Time Data](https://openreview.net/forum?id=7DI6op61AY)
+    - [Neural Markov Controlled SDE: Stochastic Optimization for Continuous-Time Data](https://openreview.net/forum?id=7DI6op61AY)
 <p id="2.3.2"></p >
 
   - Time Series Forecasting
@@ -307,12 +314,17 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487)
     - [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741)
     - [Vector quantized diffusion model for text-to-image synthesis. ](https://openaccess.thecvf.com/content/CVPR2022/html/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.html)
-    - [Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis.](https://arxiv.org/abs/2208.13753)
+    - [Frido: Feature Pyramid Diffusion for Complex 
+    Image Synthesis.](https://arxiv.org/abs/2208.13753)
     - [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242)
     - [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/abs/2210.09276)
     - [UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image](https://arxiv.org/abs/2210.09477)
     - [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)
 <p id="2.4.2"></p >
+
+  - Scene Graph-to-Image Generation
+    - [Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training](https://arxiv.org/abs/2211.11138)
+<p id="2.4.3"></p >
 
   - Text-to-Audio Generation
     - [Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech](https://proceedings.mlr.press/v139/popov21a.html)
@@ -342,6 +354,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - [Diffusion-based Molecule Generation with Informative Prior Bridge](https://arxiv.org/abs/2209.00865)
   - [Learning gradient fields for molecular conformation generation](http://proceedings.mlr.press/v139/shi21b.html)
   - [Predicting molecular conformation via dynamic graph score matching. ](https://proceedings.neurips.cc/paper/2021/hash/a45a1d12ee0fb7f1f872ab91da18f899-Abstract.html)
+  - [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://arxiv.org/abs/2210.01776)
 <p id="2.7"></p>
 
 ### 7. Material Design
