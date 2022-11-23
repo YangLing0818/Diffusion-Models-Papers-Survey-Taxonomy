@@ -40,8 +40,9 @@ This repo is constructed for collecting and categorizing papers about diffusion 
   - [Waveform Signal Processing](#2.3.3)
 * [Multi-Modal Learning](#2.4)
   - [Text-to-Image Generation](#2.4.1)
-  - [Scene Graph-to-Image Generation](#2.4.2)
-  - [Text-to-Aaudio Generation](#2.4.3)
+  - [Text-to-3D Generation](#2.4.2)
+  - [Scene Graph-to-Image Generation](#2.4.3)
+  - [Text-to-Aaudio Generation](#2.4.4)
 * [Robust Learning](#2.5)
 * [Molecular Graph Modeling](#2.6)
 * [Material Design](#2.7)
@@ -322,9 +323,14 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)
 <p id="2.4.2"></p >
 
+  - Text-to-3D Generation
+    - [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440)
+    - [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
+<p id="2.4.3"></p >
+
   - Scene Graph-to-Image Generation
     - [Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training](https://arxiv.org/abs/2211.11138)
-<p id="2.4.3"></p >
+<p id="2.4.4"></p >
 
   - Text-to-Audio Generation
     - [Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech](https://proceedings.mlr.press/v139/popov21a.html)
