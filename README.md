@@ -109,7 +109,7 @@ Sampling in Around 10 Step](https://arxiv.org/abs/2206.00927)
 <p id="1.1.2.1"></p >
 
 ##### 1.2.1 Optimized Discretization
-[Fast Inference in Denoising Diffusion Models via MMD Finetuning](https://https://arxiv.org/abs/2301.07969)
+[Fast Inference in Denoising Diffusion Models via MMD Finetuning](https://arxiv.org/abs/2301.07969)
 
 [Learning to Efficiently Sample from Diffusion Probabilistic Models](https://arxiv.org/abs/2106.03802)
 
