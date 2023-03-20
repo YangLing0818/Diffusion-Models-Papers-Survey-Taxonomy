@@ -223,7 +223,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 ### 1. Computer Vision
 <p id="2.1.1"></p >
 
-  - Image Super Resolution, Inpainting, Translation and Manipulation
+  - Conditional Image Generation (Image Super Resolution, Inpainting, Translation, Manipulation)
 
     - [SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models](https://www.sciencedirect.com/science/article/pii/S0925231222000522)
 
@@ -244,6 +244,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Sdedit: Guided image synthesis and editing with stochastic differential equations](https://arxiv.org/abs/2108.01073)
     - [Soft diffusion: Score matching for general corruptions](https://web7.arxiv.org/abs/2209.05442) 
     - [Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training](https://arxiv.org/abs/2211.11138)
+    - [ControlNet: Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
 
 <p id="2.1.2"></p >
 
