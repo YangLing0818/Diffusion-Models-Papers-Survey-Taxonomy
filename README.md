@@ -1,8 +1,7 @@
 # Diffusion Models: A Comprehensive Survey of Methods and Applications
 This repo is constructed for collecting and categorizing papers about diffusion models according to our survey paper——[_**Diffusion Models: A Comprehensive Survey of Methods and Applications**_](https://arxiv.org/abs/2209.00796)
 # Overview
-<div aligncenter><img width="800" alt="image" src="https://user-images.githubusercontent.com/62683396/196304789-47b99af6-a2a9-48ba-b035-a7b4a0db9f08.png">
-
+<div aligncenter><img width="900" alt="image" src="https://user-images.githubusercontent.com/62683396/227244860-3608bf02-b2af-4c00-8e87-6221a59a4c42.png">
 
 # Catalogue
 ## [Algorithm Taxonomy](#1)
