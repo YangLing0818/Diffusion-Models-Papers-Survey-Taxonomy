@@ -41,7 +41,9 @@ This repo is constructed for collecting and categorizing papers about diffusion 
   - [Text-to-Image Generation](#2.4.1)
   - [Text-to-3D Generation](#2.4.2)
   - [Scene Graph-to-Image Generation](#2.4.3)
-  - [Text-to-Aaudio Generation](#2.4.4)
+  - [Text-to-Audio Generation](#2.4.4)
+  - [Text-to-Motion Generation](#2.4.5)
+  - [Text-to-Video Generation](#2.4.6)
 * [Robust Learning](#2.5)
 * [Molecular Graph Modeling](#2.6)
 * [Material Design](#2.7)
@@ -341,6 +343,19 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Zero-Shot Voice Conditioning for Denoising Diffusion TTS Models](https://arxiv.org/abs/2206.02246)
     - [EdiTTS: Score-based Editing for Controllable Text-to-Speech.](https://arxiv.org/abs/2110.02584)
     - [ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech.](https://arxiv.org/abs/2207.06389)
+<p id="2.4.5"></p >
+  
+  - Text-to-Motion Generation
+    - [Human motion diffusion model](https://arxiv.org/abs/2209.14916)
+    - [Motiondiffuse: Text-driven human motion generation with diffusion model](https://arxiv.org/abs/2208.15001)
+    - [Flame: Free-form language-based motion synthesis & editing](https://arxiv.org/abs/2209.00349)
+<p id="2.4.6"></p >
+  
+  - Text-to-Video Generation
+    - [Make-a-video: Text-to-video generation without text-video data](https://arxiv.org/abs/2209.14792)
+    - [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2212.11565)
+    - [FateZero: Fusing Attentions for Zero-shot Text-based Video Editing](https://arxiv.org/abs/2303.09535)
+    - [Imagen video: High definition video generation with diffusion models](https://arxiv.org/abs/2210.02303)
 <p id="2.5"></p>
 
 ### 5. Robust Learning
