@@ -317,8 +317,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487)
     - [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741)
     - [Vector quantized diffusion model for text-to-image synthesis. ](https://openaccess.thecvf.com/content/CVPR2022/html/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.html)
-    - [Frido: Feature Pyramid Diffusion for Complex 
-    Image Synthesis.](https://arxiv.org/abs/2208.13753)
+    - [Frido: Feature Pyramid Diffusion for Complex Image Synthesis.](https://arxiv.org/abs/2208.13753)
     - [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242)
     - [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/abs/2210.09276)
     - [UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image](https://arxiv.org/abs/2210.09477)
@@ -356,6 +355,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2212.11565)
     - [FateZero: Fusing Attentions for Zero-shot Text-based Video Editing](https://arxiv.org/abs/2303.09535)
     - [Imagen video: High definition video generation with diffusion models](https://arxiv.org/abs/2210.02303)
+    - [Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://arxiv.org/abs/2303.13744)
 <p id="2.5"></p>
 
 ### 5. Robust Learning
