@@ -246,6 +246,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Soft diffusion: Score matching for general corruptions](https://web7.arxiv.org/abs/2209.05442) 
     - [Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training](https://arxiv.org/abs/2211.11138)
     - [ControlNet: Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
+    - [Image Restoration with Mean-Reverting Stochastic Differential Equations](https://arxiv.org/abs/2301.11699)
 
 <p id="2.1.2"></p >
 
