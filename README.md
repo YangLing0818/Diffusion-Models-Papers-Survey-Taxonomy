@@ -329,6 +329,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - Text-to-3D Generation
     - [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440)
     - [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
+    - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://arxiv.org/pdf/2303.14184v2.pdf)
 <p id="2.4.3"></p >
 
   - Scene Graph-to-Image Generation
@@ -343,6 +344,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Zero-Shot Voice Conditioning for Denoising Diffusion TTS Models](https://arxiv.org/abs/2206.02246)
     - [EdiTTS: Score-based Editing for Controllable Text-to-Speech.](https://arxiv.org/abs/2110.02584)
     - [ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech.](https://arxiv.org/abs/2207.06389)
+    - [Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model](https://arxiv.org/pdf/2304.13731v1.pdf)
 <p id="2.4.5"></p >
   
   - Text-to-Motion Generation
