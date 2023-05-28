@@ -196,8 +196,13 @@ score-based generative modeling](http://proceedings.mlr.press/v108/niu20a)
 
 [Score-based Generative Modeling of Graphs via
 the System of Stochastic Differential Equations](https://proceedings.mlr.press/v162/jo22a.html)
+  
+[DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734)
 
 [Learning gradient fields for molecular conformation generation](http://proceedings.mlr.press/v139/shi21b.html)
+ 
+[Graphgdp: Generative diffusion processes for permutation invariant graph generation](https://arxiv.org/abs/2212.01842)
+  
 <p id="1.3.3"></p >
 
 #### 3.3 Discrete Data
@@ -324,6 +329,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image](https://arxiv.org/abs/2210.09477)
     - [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)
     - [One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf)
+    - [TextDiffuser: Diffusion Models as Text Painters](https://arxiv.org/abs/2305.10855)
 <p id="2.4.2"></p >
 
   - Text-to-3D Generation
@@ -380,6 +386,8 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - [Learning gradient fields for molecular conformation generation](http://proceedings.mlr.press/v139/shi21b.html)
   - [Predicting molecular conformation via dynamic graph score matching. ](https://proceedings.neurips.cc/paper/2021/hash/a45a1d12ee0fb7f1f872ab91da18f899-Abstract.html)
   - [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://arxiv.org/abs/2210.01776)
+  - [3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction](https://arxiv.org/abs/2303.03543)
+  - [Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation](https://arxiv.org/abs/2305.12347)
 <p id="2.7"></p>
 
 ### 7. Material Design
