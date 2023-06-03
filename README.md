@@ -29,7 +29,7 @@ This repo is constructed for collecting and categorizing papers about diffusion 
   - [Image Super Resolution, Inpainting and Translation](#2.1.1)
   - [Semantic Segementation](#2.1.2)
   - [Video Generation](#2.1.3)
-  - [Point Cloud Completion and Generation](#2.1.4)
+  - [3D Generation](#2.1.4)
   - [Anomaly Detection](#2.1.5)
   - [Object Detection](#2.1.6)
 * [Natural Language Processing](#2.2)
@@ -268,12 +268,20 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model.](https://arxiv.org/abs/2208.15001)
 <p id="2.1.4"></p >
 
-  - Point Cloud Completion and Generation
+  - 3D Generation
     - [3d shape generation and completion through point-voxel diffusion](https://openaccess.thecvf.com/content/ICCV2021/html/Zhou_3D_Shape_Generation_and_Completion_Through_Point-Voxel_Diffusion_ICCV_2021_paper.html)
     - [Diffusion probabilistic models for 3d point cloud generation](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Diffusion_Probabilistic_Models_for_3D_Point_Cloud_Generation_CVPR_2021_paper.html)
     - [A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion](https://openreview.net/forum?id=wqD6TfbYkrn)
     - [Let us Build Bridges: Understanding and Extending Diffusion Generative Models.](https://arxiv.org/abs/2208.14699)
     - [LION: Latent Point Diffusion Models for 3D Shape Generation](https://arxiv.org/abs/2210.06978)
+    - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://arxiv.org/pdf/2303.14184v2.pdf)
+    - [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Score_Jacobian_Chaining_Lifting_Pretrained_2D_Diffusion_Models_for_3D_CVPR_2023_paper.pdf)
+    - [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Anciukevicius_RenderDiffusion_Image_Diffusion_for_3D_Reconstruction_Inpainting_and_Generation_CVPR_2023_paper.pdf)
+    - [HOLODIFFUSION: Training a 3D Diffusion Model using 2D Images](https://openaccess.thecvf.com/content/CVPR2023/papers/Karnewar_HOLODIFFUSION_Training_a_3D_Diffusion_Model_Using_2D_Images_CVPR_2023_paper.pdf)
+    - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://openaccess.thecvf.com/content/CVPR2023/papers/Metzer_Latent-NeRF_for_Shape-Guided_Generation_of_3D_Shapes_and_Textures_CVPR_2023_paper.pdf)
+    - [DiffRF: Rendering-Guided 3D Radiance Field Diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Muller_DiffRF_Rendering-Guided_3D_Radiance_Field_Diffusion_CVPR_2023_paper.pdf)
+    - [DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Wynn_DiffusioNeRF_Regularizing_Neural_Radiance_Fields_With_Denoising_Diffusion_Models_CVPR_2023_paper.pdf)
+    - [3D Neural Field Generation using Triplane Diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Shue_3D_Neural_Field_Generation_Using_Triplane_Diffusion_CVPR_2023_paper.pdf)
 <p id="2.1.5"></p >
 
   - Anomaly Detection
@@ -337,16 +345,9 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
     - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://arxiv.org/pdf/2303.14184v2.pdf)
     - [Shap·E: Generating Conditional 3D Implicit Functions](https://arxiv.org/pdf/2305.02463.pdf)
-    - [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Score_Jacobian_Chaining_Lifting_Pretrained_2D_Diffusion_Models_for_3D_CVPR_2023_paper.pdf)
     - [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://arxiv.org/pdf/2303.13873.pdf)
     - [Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Dream3D_Zero-Shot_Text-to-3D_Synthesis_Using_3D_Shape_Prior_and_Text-to-Image_CVPR_2023_paper.pdf)
-    - [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Anciukevicius_RenderDiffusion_Image_Diffusion_for_3D_Reconstruction_Inpainting_and_Generation_CVPR_2023_paper.pdf)
-    - [HOLODIFFUSION: Training a 3D Diffusion Model using 2D Images](https://openaccess.thecvf.com/content/CVPR2023/papers/Karnewar_HOLODIFFUSION_Training_a_3D_Diffusion_Model_Using_2D_Images_CVPR_2023_paper.pdf)
     - [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/pdf/2305.16213.pdf)
-    - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://openaccess.thecvf.com/content/CVPR2023/papers/Metzer_Latent-NeRF_for_Shape-Guided_Generation_of_3D_Shapes_and_Textures_CVPR_2023_paper.pdf)
-    - [DiffRF: Rendering-Guided 3D Radiance Field Diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Muller_DiffRF_Rendering-Guided_3D_Radiance_Field_Diffusion_CVPR_2023_paper.pdf)
-    - [DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Wynn_DiffusioNeRF_Regularizing_Neural_Radiance_Fields_With_Denoising_Diffusion_Models_CVPR_2023_paper.pdf)
-    - [3D Neural Field Generation using Triplane Diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Shue_3D_Neural_Field_Generation_Using_Triplane_Diffusion_CVPR_2023_paper.pdf)
 <p id="2.4.3"></p >
 
   - Scene Graph-to-Image Generation
