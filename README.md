@@ -336,6 +336,11 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440)
     - [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
     - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://arxiv.org/pdf/2303.14184v2.pdf)
+    - [Shap·E: Generating Conditional 3D Implicit Functions](https://arxiv.org/pdf/2305.02463.pdf)
+    - [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Score_Jacobian_Chaining_Lifting_Pretrained_2D_Diffusion_Models_for_3D_CVPR_2023_paper.pdf)
+    - [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://arxiv.org/pdf/2303.13873.pdf)
+    - [Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Dream3D_Zero-Shot_Text-to-3D_Synthesis_Using_3D_Shape_Prior_and_Text-to-Image_CVPR_2023_paper.pdf)
+    - [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Anciukevicius_RenderDiffusion_Image_Diffusion_for_3D_Reconstruction_Inpainting_and_Generation_CVPR_2023_paper.pdf)
 <p id="2.4.3"></p >
 
   - Scene Graph-to-Image Generation
