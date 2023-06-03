@@ -341,6 +341,12 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://arxiv.org/pdf/2303.13873.pdf)
     - [Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Dream3D_Zero-Shot_Text-to-3D_Synthesis_Using_3D_Shape_Prior_and_Text-to-Image_CVPR_2023_paper.pdf)
     - [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Anciukevicius_RenderDiffusion_Image_Diffusion_for_3D_Reconstruction_Inpainting_and_Generation_CVPR_2023_paper.pdf)
+    - [HOLODIFFUSION: Training a 3D Diffusion Model using 2D Images](https://openaccess.thecvf.com/content/CVPR2023/papers/Karnewar_HOLODIFFUSION_Training_a_3D_Diffusion_Model_Using_2D_Images_CVPR_2023_paper.pdf)
+    - [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/pdf/2305.16213.pdf)
+    - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://openaccess.thecvf.com/content/CVPR2023/papers/Metzer_Latent-NeRF_for_Shape-Guided_Generation_of_3D_Shapes_and_Textures_CVPR_2023_paper.pdf)
+    - [DiffRF: Rendering-Guided 3D Radiance Field Diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Muller_DiffRF_Rendering-Guided_3D_Radiance_Field_Diffusion_CVPR_2023_paper.pdf)
+    - [DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Wynn_DiffusioNeRF_Regularizing_Neural_Radiance_Fields_With_Denoising_Diffusion_Models_CVPR_2023_paper.pdf)
+    - [3D Neural Field Generation using Triplane Diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Shue_3D_Neural_Field_Generation_Using_Triplane_Diffusion_CVPR_2023_paper.pdf)
 <p id="2.4.3"></p >
 
   - Scene Graph-to-Image Generation
