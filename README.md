@@ -23,6 +23,9 @@ This repo is constructed for collecting and categorizing papers about diffusion 
     - [Learned Manifolds](#1.3.1.2)
   - [Data with Invariant Structures](#1.3.2)
   - [Discrete Data](#1.3.3)
+### [Improved Training](#1.4)
+  - [Improved Training Objectives](#1.4.1)
+  - [Improved Forward Process](#1.4.2)
 
 ## [Application Taxonomy](#2)
 * [Computer Vision](#2.1)
@@ -220,6 +223,29 @@ Thermodynamics.](https://openreview.net/forum?id=rkbVIoZdWH)
 
 [A Continuous Time Framework
 for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
+
+<p id="1.4"></p >
+
+### 4. Improved Training
+<p id="1.4.1"></p >
+
+#### 4.1 Improved Training Objective
+
+[Elucidating the Design Space of Diffusion-Based Generative Models](https://openreview.net/forum?id=k7FuTOWMOc7)
+
+[Stable Target Field for Reduced Variance Score Estimation in Diffusion Models](https://arxiv.org/abs/2302.00670)
+
+<p id="1.4.2"></p >
+
+#### 4.2 Improved Forward Process
+
+[Poisson Flow Generative Models](https://arxiv.org/abs/2209.11178)
+
+[PFGM++: Unlocking the Potential of Physics-Inspired Generative Models](https://arxiv.org/abs/2302.04265)
+
+[Maximum Likelihood Training of Implicit Nonlinear Diffusion Models](https://arxiv.org/abs/2205.13699)
+
+[Elucidating the Design Space of Diffusion-Based Generative Models](https://openreview.net/forum?id=k7FuTOWMOc7)
 
 <p id="2"></p>
 
