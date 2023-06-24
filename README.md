@@ -104,6 +104,8 @@ Sampling in Around 10 Step](https://arxiv.org/abs/2206.00927)
 [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY)
 
 [Fast Sampling of Diffusion Models with Exponential Integrator](https://arxiv.org/abs/2204.13902)
+
+[Poisson flow generative models](https://openreview.net/pdf?id=voV_TRqcWh)
 <p id="1.1.2"></p >
 
 #### 1.2 Learning-Based Sampling
@@ -145,6 +147,8 @@ sample quality](https://openreview.net/forum?id=VFBjuF8HEp)
 [Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models](https://openreview.net/forum?id=0xiJLKH-ufZ)
 
 [ Improved denoising diffusion probabilistic models](https://proceedings.mlr.press/v139/nichol21a.html)
+
+[Stable Target Field for Reduced Variance Score Estimation in Diffusion Models](https://openreview.net/forum?id=WmIwYTd0YTF)
 <p id="1.2.3"></p >
 
 #### 2.3. Exact Likelihood Computation
@@ -160,6 +164,8 @@ through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG
 
 [ Maximum Likelihood Training for Score-based Diffusion
 ODEs by High Order Denoising Score Matching](https://proceedings.mlr.press/v162/lu22f.html)
+
+[Maximum Likelihood Training of Implicit Nonlinear Diffusion Models](https://openreview.net/forum?id=TQn44YPuOR2)
 <p id="1.3"></p >
 
 ### 3. Data with Special Structures
@@ -435,6 +441,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 ### 3. Normalizing Flow
   - [Diffusion Normalizing Flow](https://proceedings.neurips.cc/paper/2021/hash/876f1f9954de0aa402d91bb988d12cd4-Abstract.html)
   - [Interpreting diffusion score matching using normalizing flow](https://openreview.net/forum?id=jxsmOXCDv9l)
+  - [Maximum Likelihood Training of Implicit Nonlinear Diffusion Models](https://openreview.net/forum?id=TQn44YPuOR2)
 <p id="3.4"></p>
 
 ### 4. Autoregressive Models
