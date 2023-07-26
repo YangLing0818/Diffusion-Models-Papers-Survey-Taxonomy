@@ -208,6 +208,8 @@ the System of Stochastic Differential Equations](https://proceedings.mlr.press/v
 [Learning gradient fields for molecular conformation generation](http://proceedings.mlr.press/v139/shi21b.html)
  
 [Graphgdp: Generative diffusion processes for permutation invariant graph generation](https://arxiv.org/abs/2212.01842)
+
+[SwinGNN: Rethinking Permutation Invariance in Diffusion Models for Graph Generation](https://arxiv.org/abs/2307.01646)
   
 <p id="1.3.3"></p >
 
@@ -383,6 +385,8 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [FateZero: Fusing Attentions for Zero-shot Text-based Video Editing](https://arxiv.org/abs/2303.09535)
     - [Imagen video: High definition video generation with diffusion models](https://arxiv.org/abs/2210.02303)
     - [Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://arxiv.org/abs/2303.13744)
+    - [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439)
+    - [Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models](https://arxiv.org/abs/2303.17599)
 <p id="2.5"></p>
 
 ### 5. Robust Learning
