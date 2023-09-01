@@ -43,7 +43,7 @@ This repo is constructed for collecting and categorizing papers about diffusion 
   - [Scene Graph-to-Image Generation](#2.4.3)
   - [Text-to-Audio Generation](#2.4.4)
   - [Text-to-Motion Generation](#2.4.5)
-  - [Text-to-Video Generation](#2.4.6)
+  - [Text-to-Video Generation/Editting](#2.4.6)
 * [Robust Learning](#2.5)
 * [Molecular Graph Modeling](#2.6)
 * [Material Design](#2.7)
@@ -379,7 +379,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Flame: Free-form language-based motion synthesis & editing](https://arxiv.org/abs/2209.00349)
 <p id="2.4.6"></p >
   
-  - Text-to-Video Generation
+  - Text-to-Video Generation/Editting
     - [Make-a-video: Text-to-video generation without text-video data](https://arxiv.org/abs/2209.14792)
     - [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2212.11565)
     - [FateZero: Fusing Attentions for Zero-shot Text-based Video Editing](https://arxiv.org/abs/2303.09535)
@@ -387,6 +387,9 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://arxiv.org/abs/2303.13744)
     - [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439)
     - [Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models](https://arxiv.org/abs/2303.17599)
+    - [Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos](https://arxiv.org/abs/2304.01186)
+    - [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439)
+    - [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2305.13077)
 <p id="2.5"></p>
 
 ### 5. Robust Learning
