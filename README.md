@@ -45,6 +45,8 @@ This repo is constructed for collecting and categorizing papers about diffusion 
   - [Text-to-Motion Generation](#2.4.5)
   - [Text-to-Video Generation/Editting](#2.4.6)
 * [Robust Learning](#2.5)
+  - [Data Purification](#2.5.1)
+  - [Generating Synthetic Data for Robust Learning](#2.5.2)
 * [Molecular Graph Modeling](#2.6)
 * [Material Design](#2.7)
 * [Medical Image Reconstruction](#2.8)
@@ -393,12 +395,21 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 <p id="2.5"></p>
 
 ### 5. Robust Learning
-  - [Diffusion Models for Adversarial Purification](https://arxiv.org/abs/2205.07460)
-  - [Adversarial purification with score-based generative models](http://proceedings.mlr.press/v139/yoon21a.html)
-  - [Threat Model-Agnostic Adversarial Defense using Diffusion Models](https://arxiv.org/abs/2207.08089)
-  - [Guided Diffusion Model for Adversarial Purification](https://arxiv.org/abs/2205.14969)
-  - [Guided Diffusion Model for Adversarial Purification from Random Noise](https://arxiv.org/abs/2206.10875)
-  - [PointDP: Diffusion-driven Purification against Adversarial Attacks on 3D Point Cloud Recognition.](https://arxiv.org/abs/2208.09801)
+<p id="2.5.1"></p >
+
+  - Data Purification
+    - [Diffusion Models for Adversarial Purification](https://arxiv.org/abs/2205.07460)
+    - [Adversarial purification with score-based generative models](http://proceedings.mlr.press/v139/yoon21a.html)
+    - [Threat Model-Agnostic Adversarial Defense using Diffusion Models](https://arxiv.org/abs/2207.08089)
+    - [Guided Diffusion Model for Adversarial Purification](https://arxiv.org/abs/2205.14969)
+    - [Guided Diffusion Model for Adversarial Purification from Random Noise](https://arxiv.org/abs/2206.10875)
+    - [PointDP: Diffusion-driven Purification against Adversarial Attacks on 3D Point Cloud Recognition.](https://arxiv.org/abs/2208.09801)
+<p id="2.5.2"></p >  
+
+  - Generating Synthetic Data for Robust Learning
+    - [Generating high fidelity data from low-density regions using diffusion models](https://arxiv.org/abs/2203.17260)
+    - [Don’t Play Favorites: Minority Guidance for Diffusion Models](https://arxiv.org/abs/2301.12334)
+    - [Better diffusion models further improve adversarial training](https://arxiv.org/abs/2302.04638)
 <p id="2.6"></p>
 
 ### 6. Molecular Graph Modeling
