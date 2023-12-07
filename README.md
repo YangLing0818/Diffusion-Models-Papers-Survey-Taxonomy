@@ -40,7 +40,7 @@ This repo is constructed for collecting and categorizing papers about diffusion 
 * [Multi-Modal Learning](#2.4)
   - [Text-to-Image Generation](#2.4.1)
   - [Text-to-3D Generation](#2.4.2)
-  - [Scene Graph-to-Image Generation](#2.4.3)
+  - [Scene Graph/Layout to Image Generation](#2.4.3)
   - [Text-to-Audio Generation](#2.4.4)
   - [Text-to-Motion Generation](#2.4.5)
   - [Text-to-Video Generation/Editting](#2.4.6)
@@ -360,8 +360,10 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/pdf/2305.16213.pdf)
 <p id="2.4.3"></p >
 
-  - Scene Graph-to-Image Generation
+  - Scene Graph/Layout to Image Generation
     - [Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training](https://arxiv.org/abs/2211.11138)
+    - [LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation](http://openaccess.thecvf.com/content/CVPR2023/html/Zheng_LayoutDiffusion_Controllable_Diffusion_Model_for_Layout-to-Image_Generation_CVPR_2023_paper.html)
+    - [LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models](https://arxiv.org/abs/2305.13655)
 <p id="2.4.4"></p >
 
   - Text-to-Audio Generation
