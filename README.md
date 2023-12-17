@@ -337,6 +337,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 
   - Text-to-Image Generation
     - [Blended diffusion for text-driven editing of natural images](https://openaccess.thecvf.com/content/CVPR2022/html/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.html)
+    - [Blended Latent Diffusion](https://dl.acm.org/doi/10.1145/3592450)
     - [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125)
     - [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487)
     - [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741)
@@ -348,6 +349,8 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)
     - [One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf)
     - [TextDiffuser: Diffusion Models as Text Painters](https://arxiv.org/abs/2305.10855)
+    - [Break-A-Scene: Extracting Multiple Concepts from a Single Image](https://dl.acm.org/doi/10.1145/3610548.3618154)
+    - [The Chosen One: Consistent Characters in Text-to-Image Diffusion Models](https://arxiv.org/abs/2311.10093)
 <p id="2.4.2"></p >
 
   - Text-to-3D Generation
@@ -364,6 +367,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training](https://arxiv.org/abs/2211.11138)
     - [LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation](http://openaccess.thecvf.com/content/CVPR2023/html/Zheng_LayoutDiffusion_Controllable_Diffusion_Model_for_Layout-to-Image_Generation_CVPR_2023_paper.html)
     - [LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models](https://arxiv.org/abs/2305.13655)
+    - [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Avrahami_SpaText_Spatio-Textual_Representation_for_Controllable_Image_Generation_CVPR_2023_paper.pdf)
 <p id="2.4.4"></p >
 
   - Text-to-Audio Generation
