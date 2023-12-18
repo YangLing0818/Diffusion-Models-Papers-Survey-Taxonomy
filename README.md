@@ -262,6 +262,8 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training](https://arxiv.org/abs/2211.11138)
     - [ControlNet: Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
     - [Image Restoration with Mean-Reverting Stochastic Differential Equations](https://arxiv.org/abs/2301.11699)
+    - [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Avrahami_SpaText_Spatio-Textual_Representation_for_Controllable_Image_Generation_CVPR_2023_paper.html)
+    - [Break-A-Scene: Extracting Multiple Concepts from a Single Image](https://arxiv.org/abs/2305.16311)
 
 <p id="2.1.2"></p >
 
