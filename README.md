@@ -95,12 +95,14 @@ Score-Based Models](https://arxiv.org/abs/2105.14080)
 ##### 1.1.2 ODE Solver
 [Denoising Diffusion Implicit Models](https://openreview.net/forum?id=St1giarCHLP)
 
-[ gDDIM: Generalized denoising diffusion implicit models](https://arxiv.org/abs/2206.05564)
+[Improving Diffusion-Based Image Synthesis with Context Prediction](https://openreview.net/forum?id=wRhLd65bDt)
+
+[gDDIM: Generalized denoising diffusion implicit models](https://arxiv.org/abs/2206.05564)
 
 [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)
 
 
-[ DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model
+[DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model
 Sampling in Around 10 Step](https://arxiv.org/abs/2206.00927)
 
 [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY)
@@ -108,6 +110,8 @@ Sampling in Around 10 Step](https://arxiv.org/abs/2206.00927)
 [Fast Sampling of Diffusion Models with Exponential Integrator](https://arxiv.org/abs/2204.13902)
 
 [Poisson flow generative models](https://openreview.net/pdf?id=voV_TRqcWh)
+
+[Improving Diffusion-Based Image Synthesis with Context Prediction](https://openreview.net/forum?id=wRhLd65bDt)
 <p id="1.1.2"></p >
 
 #### 1.2 Learning-Based Sampling
@@ -168,6 +172,8 @@ through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG
 ODEs by High Order Denoising Score Matching](https://proceedings.mlr.press/v162/lu22f.html)
 
 [Maximum Likelihood Training of Implicit Nonlinear Diffusion Models](https://openreview.net/forum?id=TQn44YPuOR2)
+
+[Improving Diffusion-Based Image Synthesis with Context Prediction](https://openreview.net/forum?id=wRhLd65bDt)
 <p id="1.3"></p >
 
 ### 3. Data with Special Structures
@@ -193,6 +199,8 @@ Modeling](https://arxiv.org/abs/2202.02763)
 
 [High-resolution image synthesis with latent diffusion
 models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)
+
+[Improving Diffusion-Based Image Synthesis with Context Prediction](https://openreview.net/forum?id=wRhLd65bDt)
 <p id="1.3.2"></p >
 
 #### 3.2. Data with Invariant Structures
@@ -240,15 +248,11 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 <p id="2.1.1"></p >
 
   - Conditional Image Generation (Image Super Resolution, Inpainting, Translation, Manipulation)
-
+    - [Improving Diffusion-Based Image Synthesis with Context Prediction](https://openreview.net/forum?id=wRhLd65bDt)
     - [SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models](https://www.sciencedirect.com/science/article/pii/S0925231222000522)
-
     - [Image Super-Resolution via Iterative Refinement](https://openreview.net/forum?id=y4N8y8ZQ4c1)
-
     - [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)
-
     - [Repaint: Inpainting using denoising diffusion probabilistic models.](https://openaccess.thecvf.com/content/CVPR2022/html/Lugmayr_RePaint_Inpainting_Using_Denoising_Diffusion_Probabilistic_Models_CVPR_2022_paper.html)
-
     - [Palette: Image-to-image diffusion models.](https://openreview.net/forum?id=FPGs276lUeq)
     - [Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models](http://arxiv.org/abs/2209.06970)
     - [Cascaded Diffusion Models for High Fidelity Image Generation.](https://www.jmlr.org/papers/v23/21-0635.html)
@@ -264,6 +268,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Image Restoration with Mean-Reverting Stochastic Differential Equations](https://arxiv.org/abs/2301.11699)
     - [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Avrahami_SpaText_Spatio-Textual_Representation_for_Controllable_Image_Generation_CVPR_2023_paper.html)
     - [Break-A-Scene: Extracting Multiple Concepts from a Single Image](https://arxiv.org/abs/2305.16311)
+    - [Improving Diffusion-Based Image Synthesis with Context Prediction](https://openreview.net/forum?id=wRhLd65bDt)
 
 <p id="2.1.2"></p >
 
@@ -338,6 +343,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 <p id="2.4.1"></p >
 
   - Text-to-Image Generation
+    - [Improving Diffusion-Based Image Synthesis with Context Prediction](https://openreview.net/forum?id=wRhLd65bDt)
     - [Blended diffusion for text-driven editing of natural images](https://openaccess.thecvf.com/content/CVPR2022/html/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.html)
     - [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125)
     - [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487)
@@ -350,6 +356,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)
     - [One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf)
     - [TextDiffuser: Diffusion Models as Text Painters](https://arxiv.org/abs/2305.10855)
+    - [Improving Diffusion-Based Image Synthesis with Context Prediction](https://openreview.net/forum?id=wRhLd65bDt)
 <p id="2.4.2"></p >
 
   - Text-to-3D Generation
@@ -454,6 +461,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
 - [A variational perspective on diffusion-based generative models and score matching](https://proceedings.neurips.cc/paper/2021/hash/c11abfd29e4d9b4d4b566b01114d8486-Abstract.html)
 - [Score-based generative modeling in latent space](https://proceedings.neurips.cc/paper/2021/hash/5dca4c6b9e244d24a30b4c45601d9720-Abstract.html)
+- [Improving Diffusion-Based Image Synthesis with Context Prediction](https://openreview.net/forum?id=wRhLd65bDt)
 <p id="3.2"></p>
 
 ### 2. Generative Adversarial Network
