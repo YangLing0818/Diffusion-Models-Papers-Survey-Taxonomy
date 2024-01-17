@@ -112,6 +112,8 @@ Sampling in Around 10 Step](https://arxiv.org/abs/2206.00927)
 [Poisson flow generative models](https://openreview.net/pdf?id=voV_TRqcWh)
 
 [Improving Diffusion-Based Image Synthesis with Context Prediction](https://openreview.net/forum?id=wRhLd65bDt)
+
+[Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing](https://openreview.net/forum?id=nFMS6wF2xq)
 <p id="1.1.2"></p >
 
 #### 1.2 Learning-Based Sampling
@@ -143,6 +145,7 @@ sample quality](https://openreview.net/forum?id=VFBjuF8HEp)
 
 #### 2.1. Noise Schedule Optimization
 
+[Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing](https://openreview.net/forum?id=nFMS6wF2xq)
 
 [ Improved denoising diffusion probabilistic models](https://proceedings.mlr.press/v139/nichol21a.html)
 
@@ -220,6 +223,8 @@ the System of Stochastic Differential Equations](https://proceedings.mlr.press/v
 [Graphgdp: Generative diffusion processes for permutation invariant graph generation](https://arxiv.org/abs/2212.01842)
 
 [SwinGNN: Rethinking Permutation Invariance in Diffusion Models for Graph Generation](https://arxiv.org/abs/2307.01646)
+
+[Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models](https://openreview.net/forum?id=qH9nrMNTIW)
   
 <p id="1.3.3"></p >
 
@@ -269,6 +274,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Avrahami_SpaText_Spatio-Textual_Representation_for_Controllable_Image_Generation_CVPR_2023_paper.html)
     - [Break-A-Scene: Extracting Multiple Concepts from a Single Image](https://arxiv.org/abs/2305.16311)
     - [Improving Diffusion-Based Image Synthesis with Context Prediction](https://openreview.net/forum?id=wRhLd65bDt)
+    - [Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing](https://openreview.net/forum?id=nFMS6wF2xq)
 
 <p id="2.1.2"></p >
 
@@ -283,6 +289,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Video diffusion models](https://openreview.net/forum?id=BBelR2NdDZ5)
     - [Diffusion probabilistic modeling for video generation](https://arxiv.org/abs/2203.09481)
     - [MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model.](https://arxiv.org/abs/2208.15001)
+    - [Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing](https://openreview.net/forum?id=nFMS6wF2xq)
 <p id="2.1.4"></p >
 
   - 3D Generation
@@ -357,6 +364,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf)
     - [TextDiffuser: Diffusion Models as Text Painters](https://arxiv.org/abs/2305.10855)
     - [Improving Diffusion-Based Image Synthesis with Context Prediction](https://openreview.net/forum?id=wRhLd65bDt)
+    - [Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing](https://openreview.net/forum?id=nFMS6wF2xq)
 <p id="2.4.2"></p >
 
   - Text-to-3D Generation
@@ -404,6 +412,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439)
     - [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2305.13077)
     - [MotionDirector: Motion Customization of Text-to-Video Diffusion Models](https://arxiv.org/abs/2310.08465)
+    - [Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing](https://openreview.net/forum?id=nFMS6wF2xq)
 <p id="2.5"></p>
 
 ### 5. Robust Learning
@@ -436,6 +445,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://arxiv.org/abs/2210.01776)
   - [3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction](https://arxiv.org/abs/2303.03543)
   - [Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation](https://arxiv.org/abs/2305.12347)
+  - [Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models](https://openreview.net/forum?id=qH9nrMNTIW)
 <p id="2.7"></p>
 
 ### 7. Material Design
