@@ -23,6 +23,9 @@ This repo is constructed for collecting and categorizing papers about diffusion 
     - [Learned Manifolds](#1.3.1.2)
   - [Data with Invariant Structures](#1.3.2)
   - [Discrete Data](#1.3.3)
+### [Diffusion with (Multimodal) LLM](#1.4)
+  - [Simple Combination](#1.4.1)
+  - [Deep Collaboration](#1.4.2)
 
 ## [Application Taxonomy](#2)
 * [Computer Vision](#2.1)
@@ -243,7 +246,17 @@ Thermodynamics.](https://openreview.net/forum?id=rkbVIoZdWH)
 
 [A Continuous Time Framework
 for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
+<p id="1.4"></p >
 
+### 4. Diffusion with (Multimodal) LLM
+<p id="1.4.1"></p >
+
+#### 4.1. Simple Combination
+[LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models](https://arxiv.org/abs/2305.13655)
+<p id="1.4.2"></p >
+
+#### 4.2. Deep Collaboration
+[Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs](https://arxiv.org/abs/2401.11708)
 <p id="2"></p>
 
 ## Application Taxonomy
