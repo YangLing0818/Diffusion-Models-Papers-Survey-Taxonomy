@@ -93,6 +93,8 @@ Score-Based Models](https://arxiv.org/abs/2105.14080)
 [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)
 
 [Generative modeling by estimating gradients of the data distribution](https://proceedings.neurips.cc/paper/2019/hash/3001ef257407d5a371a96dcd947c7d93-Abstract.html)
+
+[Structure-Guided Adversarial Training of Diffusion Models](https://arxiv.org/abs/2402.17563)
 <p id="1.1.1.2"></p >
 
 ##### 1.1.2 ODE Solver
@@ -117,6 +119,8 @@ Sampling in Around 10 Step](https://arxiv.org/abs/2206.00927)
 [Improving Diffusion-Based Image Synthesis with Context Prediction](https://openreview.net/forum?id=wRhLd65bDt)
 
 [Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing](https://openreview.net/forum?id=nFMS6wF2xq)
+
+[Structure-Guided Adversarial Training of Diffusion Models](https://arxiv.org/abs/2402.17563)
 <p id="1.1.2"></p >
 
 #### 1.2 Learning-Based Sampling
@@ -164,6 +168,8 @@ sample quality](https://openreview.net/forum?id=VFBjuF8HEp)
 <p id="1.2.3"></p >
 
 #### 2.3. Exact Likelihood Computation
+[Structure-Guided Adversarial Training of Diffusion Models](https://arxiv.org/abs/2402.17563)
+
 [Score-Based Generative Modeling
 through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG12RRHS)
 
