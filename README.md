@@ -258,7 +258,9 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 <p id="1.4.1"></p >
 
 #### 4.1. Simple Combination
-[LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models](https://arxiv.org/abs/2305.13655)
+[LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models](https://arxiv.org/abs/2305.13655)'
+[Videodirectorgpt: Consistent multi-scene video generation via llm-guided planning](https://arxiv.org/abs/2309.15091)
+[RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models](https://arxiv.org/abs/2402.12908)
 <p id="1.4.2"></p >
 
 #### 4.2. Deep Collaboration
@@ -311,6 +313,9 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Diffusion probabilistic modeling for video generation](https://arxiv.org/abs/2203.09481)
     - [MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model.](https://arxiv.org/abs/2208.15001)
     - [Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing](https://openreview.net/forum?id=nFMS6wF2xq)
+    - [Stable video diffusion: Scaling latent video diffusion models to large datasets](https://arxiv.org/abs/2311.15127)
+    - [I2vgen-xl: High-quality image-to-video synthesis via cascaded diffusion models](https://arxiv.org/abs/2311.04145)
+    - [Lumiere: A space-time diffusion model for video generation](https://arxiv.org/abs/2401.12945)
 <p id="2.1.4"></p >
 
   - 3D Generation
@@ -436,6 +441,10 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2305.13077)
     - [MotionDirector: Motion Customization of Text-to-Video Diffusion Models](https://arxiv.org/abs/2310.08465)
     - [Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing](https://openreview.net/forum?id=nFMS6wF2xq)
+    - [Stable video diffusion: Scaling latent video diffusion models to large datasets](https://arxiv.org/abs/2311.15127)
+    - [I2vgen-xl: High-quality image-to-video synthesis via cascaded diffusion models](https://arxiv.org/abs/2311.04145)
+    - [Lumiere: A space-time diffusion model for video generation](https://arxiv.org/abs/2401.12945)
+    - [Videocrafter1: Open diffusion models for high-quality video generation](https://arxiv.org/abs/2310.19512)
 <p id="2.5"></p>
 
 ### 5. Robust Learning
