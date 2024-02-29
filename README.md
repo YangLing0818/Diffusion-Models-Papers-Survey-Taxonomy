@@ -258,8 +258,10 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 <p id="1.4.1"></p >
 
 #### 4.1. Simple Combination
-[LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models](https://arxiv.org/abs/2305.13655)'
+[LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models](https://arxiv.org/abs/2305.13655)
+
 [Videodirectorgpt: Consistent multi-scene video generation via llm-guided planning](https://arxiv.org/abs/2309.15091)
+
 [RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models](https://arxiv.org/abs/2402.12908)
 <p id="1.4.2"></p >
 
