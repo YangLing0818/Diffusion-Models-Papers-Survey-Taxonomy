@@ -405,6 +405,8 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://arxiv.org/pdf/2303.13873.pdf)
     - [Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Dream3D_Zero-Shot_Text-to-3D_Synthesis_Using_3D_Shape_Prior_and_Text-to-Image_CVPR_2023_paper.pdf)
     - [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/pdf/2305.16213.pdf)
+    - [LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes](https://arxiv.org/abs/2311.13384)
+    - [GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models](https://arxiv.org/abs/2310.08529)
 <p id="2.4.3"></p >
 
   - Scene Graph/Layout to Image Generation
@@ -479,6 +481,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://arxiv.org/abs/2210.01776)
   - [3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction](https://arxiv.org/abs/2303.03543)
   - [Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation](https://arxiv.org/abs/2305.12347)
+  - [Binding-Adaptive Diffusion Models for Structure-Based Drug Design](https://arxiv.org/abs/2402.18583)
   - [Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models](https://openreview.net/forum?id=qH9nrMNTIW)
 <p id="2.7"></p>
 
