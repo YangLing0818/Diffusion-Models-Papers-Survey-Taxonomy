@@ -350,6 +350,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - [Diffusion-LM Improves Controllable Text Generation.](https://arxiv.org/abs/2205.14217)
   - [Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning](https://arxiv.org/abs/2208.04202)
   - [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933)
+  - [Flow Matching for Conditional Text Generation in a Few Sampling Steps](https://aclanthology.org/2024.eacl-short.33.pdf)
  
 <p id="2.3"></p>
 
