@@ -234,6 +234,8 @@ the System of Stochastic Differential Equations](https://proceedings.mlr.press/v
 [SwinGNN: Rethinking Permutation Invariance in Diffusion Models for Graph Generation](https://arxiv.org/abs/2307.01646)
 
 [Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models](https://openreview.net/forum?id=qH9nrMNTIW)
+
+[Graphusion: Latent Diffusion for Graph Generation](https://ieeexplore.ieee.org/abstract/document/10508504)
   
 <p id="1.3.3"></p >
 
@@ -267,6 +269,8 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 
 #### 4.2. Deep Collaboration
 [Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs](https://arxiv.org/abs/2401.11708)
+
+[VideoTetris: Towards Compositional Text-To-Video Generation](https://arxiv.org/abs/2406.04277)
 <p id="2"></p>
 
 ## Application Taxonomy
@@ -318,6 +322,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Stable video diffusion: Scaling latent video diffusion models to large datasets](https://arxiv.org/abs/2311.15127)
     - [I2vgen-xl: High-quality image-to-video synthesis via cascaded diffusion models](https://arxiv.org/abs/2311.04145)
     - [Lumiere: A space-time diffusion model for video generation](https://arxiv.org/abs/2401.12945)
+    - [VideoTetris: Towards Compositional Text-To-Video Generation](https://arxiv.org/abs/2406.04277)
 <p id="2.1.4"></p >
 
   - 3D Generation
@@ -395,6 +400,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing](https://openreview.net/forum?id=nFMS6wF2xq)
     - [RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models](https://arxiv.org/abs/2402.12908)
     - [Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs](https://arxiv.org/abs/2401.11708)
+    - [EditWorld: Simulating World Dynamics for Instruction-Following Image Editing](https://arxiv.org/abs/2405.14785)
 <p id="2.4.2"></p >
 
   - Text-to-3D Generation
@@ -407,6 +413,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/pdf/2305.16213.pdf)
     - [LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes](https://arxiv.org/abs/2311.13384)
     - [GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models](https://arxiv.org/abs/2310.08529)
+    - [IPDreamer: Appearance-Controllable 3D Object Generation with Complex Image Prompts](https://arxiv.org/pdf/2310.05375)
 <p id="2.4.3"></p >
 
   - Scene Graph/Layout to Image Generation
@@ -449,6 +456,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [I2vgen-xl: High-quality image-to-video synthesis via cascaded diffusion models](https://arxiv.org/abs/2311.04145)
     - [Lumiere: A space-time diffusion model for video generation](https://arxiv.org/abs/2401.12945)
     - [Videocrafter1: Open diffusion models for high-quality video generation](https://arxiv.org/abs/2310.19512)
+    - [VideoTetris: Towards Compositional Text-To-Video Generation](https://arxiv.org/abs/2406.04277)
 <p id="2.5"></p>
 
 ### 5. Robust Learning
@@ -481,8 +489,10 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://arxiv.org/abs/2210.01776)
   - [3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction](https://arxiv.org/abs/2303.03543)
   - [Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation](https://arxiv.org/abs/2305.12347)
+  - [Graphusion: Latent Diffusion for Graph Generation](https://ieeexplore.ieee.org/abstract/document/10508504)
   - [Binding-Adaptive Diffusion Models for Structure-Based Drug Design](https://arxiv.org/abs/2402.18583)
   - [Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models](https://openreview.net/forum?id=qH9nrMNTIW)
+  - [Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation](https://openreview.net/forum?id=eejhD9FCP3)
 <p id="2.7"></p>
 
 ### 7. Material Design
