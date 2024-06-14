@@ -545,10 +545,14 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 ## Citing
 If you find this work useful, please cite our paper:
 ```
-@article{Yang2022DiffusionMA,
+@article{yang2023diffusurvey,
   title={Diffusion models: A comprehensive survey of methods and applications},
-  author={Yang, Ling and Zhang, Zhilong and Song, Yang and Hong, Shenda and Xu, Runsheng and Zhao, Yue and Shao, Yingxia and Zhang, Wentao and Cui, Bin and Yang, Ming-Hsuan},
-  journal={arXiv preprint arXiv:2209.00796},
-  year={2022}
+  author={Yang, Ling and Zhang, Zhilong and Song, Yang and Hong, Shenda and Xu, Runsheng and Zhao, Yue and Zhang, Wentao and Cui, Bin and Yang, Ming-Hsuan},
+  journal={ACM Computing Surveys},
+  volume={56},
+  number={4},
+  pages={1--39},
+  year={2023},
+  publisher={ACM New York, NY, USA}
 }
 ```
