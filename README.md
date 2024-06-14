@@ -304,6 +304,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing](https://openreview.net/forum?id=nFMS6wF2xq)
     - [RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models](https://arxiv.org/abs/2402.12908)
     - [Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs](https://arxiv.org/abs/2401.11708)
+    - [EditWorld: Simulating World Dynamics for Instruction-Following Image Editing](https://arxiv.org/abs/2405.14785)
 
 <p id="2.1.2"></p >
 
@@ -420,6 +421,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training](https://arxiv.org/abs/2211.11138)
     - [LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation](http://openaccess.thecvf.com/content/CVPR2023/html/Zheng_LayoutDiffusion_Controllable_Diffusion_Model_for_Layout-to-Image_Generation_CVPR_2023_paper.html)
     - [LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models](https://arxiv.org/abs/2305.13655)
+    - [RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models](https://arxiv.org/abs/2402.12908)
 <p id="2.4.4"></p >
 
   - Text-to-Audio Generation
