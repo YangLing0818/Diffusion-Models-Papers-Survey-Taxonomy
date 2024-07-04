@@ -324,6 +324,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [I2vgen-xl: High-quality image-to-video synthesis via cascaded diffusion models](https://arxiv.org/abs/2311.04145)
     - [Lumiere: A space-time diffusion model for video generation](https://arxiv.org/abs/2401.12945)
     - [VideoTetris: Towards Compositional Text-To-Video Generation](https://arxiv.org/abs/2406.04277)
+    - [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014)
 <p id="2.1.4"></p >
 
   - 3D Generation
@@ -459,6 +460,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [Lumiere: A space-time diffusion model for video generation](https://arxiv.org/abs/2401.12945)
     - [Videocrafter1: Open diffusion models for high-quality video generation](https://arxiv.org/abs/2310.19512)
     - [VideoTetris: Towards Compositional Text-To-Video Generation](https://arxiv.org/abs/2406.04277)
+    - [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014)
 <p id="2.5"></p>
 
 ### 5. Robust Learning
