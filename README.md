@@ -121,6 +121,8 @@ Sampling in Around 10 Step](https://arxiv.org/abs/2206.00927)
 [Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing](https://openreview.net/forum?id=nFMS6wF2xq)
 
 [Structure-Guided Adversarial Training of Diffusion Models](https://arxiv.org/abs/2402.17563)
+
+[Consistency Flow Matching: Defining Straight Flows with Velocity Consistency](https://arxiv.org/abs/2407.02398v1)
 <p id="1.1.2"></p >
 
 #### 1.2 Learning-Based Sampling
@@ -532,6 +534,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - [Diffusion Normalizing Flow](https://proceedings.neurips.cc/paper/2021/hash/876f1f9954de0aa402d91bb988d12cd4-Abstract.html)
   - [Interpreting diffusion score matching using normalizing flow](https://openreview.net/forum?id=jxsmOXCDv9l)
   - [Maximum Likelihood Training of Implicit Nonlinear Diffusion Models](https://openreview.net/forum?id=TQn44YPuOR2)
+  - [Consistency Flow Matching: Defining Straight Flows with Velocity Consistency](https://arxiv.org/abs/2407.02398v1)
 <p id="3.4"></p>
 
 ### 4. Autoregressive Models
