@@ -444,6 +444,9 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 <p id="2.4.6"></p >
   
   - Text-to-Video Generation/Editting
+    - [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440)
+    - [ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation](https://arxiv.org/abs/2406.18522) 
+    - [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014)
     - [Make-a-video: Text-to-video generation without text-video data](https://arxiv.org/abs/2209.14792)
     - [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2212.11565)
     - [FateZero: Fusing Attentions for Zero-shot Text-based Video Editing](https://arxiv.org/abs/2303.09535)
