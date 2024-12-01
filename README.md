@@ -26,6 +26,7 @@ This repo is constructed for collecting and categorizing papers about diffusion 
 ### [Diffusion with (Multimodal) LLM](#1.4)
   - [Simple Combination](#1.4.1)
   - [Deep Collaboration](#1.4.2)
+### [Diffusion with DPO/RLHF](#1.5)
 
 ## [Application Taxonomy](#2)
 * [Computer Vision](#2.1)
@@ -273,6 +274,14 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 [Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs](https://arxiv.org/abs/2401.11708)
 
 [VideoTetris: Towards Compositional Text-To-Video Generation](https://arxiv.org/abs/2406.04277)
+<p id="1.5"></p >
+
+### 4. Diffusion with DPO/RLHF
+[Diffusion Model Alignment Using Direct Preference Optimization](https://arxiv.org/abs/2311.12908)
+
+[ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation](https://arxiv.org/abs/2304.05977)
+
+[IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation](https://arxiv.org/abs/2410.07171)
 <p id="2"></p>
 
 ## Application Taxonomy
@@ -307,7 +316,9 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models](https://arxiv.org/abs/2402.12908)
     - [Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs](https://arxiv.org/abs/2401.11708)
     - [EditWorld: Simulating World Dynamics for Instruction-Following Image Editing](https://arxiv.org/abs/2405.14785)
-
+    - [IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation](https://arxiv.org/abs/2410.07171)
+    - [Consistency Flow Matching: Defining Straight Flows with Velocity Consistency](https://arxiv.org/abs/2407.02398v1)
+    - [Rectified Diffusion: Straightness Is Not Your Need in Rectified Flow](https://arxiv.org/abs/2410.07303)
 <p id="2.1.2"></p >
 
   - Semantic Segmentation
@@ -404,6 +415,9 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models](https://arxiv.org/abs/2402.12908)
     - [Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs](https://arxiv.org/abs/2401.11708)
     - [EditWorld: Simulating World Dynamics for Instruction-Following Image Editing](https://arxiv.org/abs/2405.14785)
+    - [IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation](https://arxiv.org/abs/2410.07171)
+    - [Consistency Flow Matching: Defining Straight Flows with Velocity Consistency](https://arxiv.org/abs/2407.02398v1)
+    - [Rectified Diffusion: Straightness Is Not Your Need in Rectified Flow](https://arxiv.org/abs/2410.07303)
 <p id="2.4.2"></p >
 
   - Text-to-3D Generation
@@ -528,6 +542,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 ### 2. Generative Adversarial Network
   - [Diffusion-GAN: Training GANs with Diffusion. ](https://arxiv.org/abs/2206.02262)
   - [Tackling the generative learning trilemma with denoising diffusion gans](https://openreview.net/forum?id=JprM0p-q0Co)
+  - [Structure-Guided Adversarial Training of Diffusion Models](https://arxiv.org/abs/2402.17563)
 <p id="3.3"></p>
 
 ### 3. Normalizing Flow
@@ -535,6 +550,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - [Interpreting diffusion score matching using normalizing flow](https://openreview.net/forum?id=jxsmOXCDv9l)
   - [Maximum Likelihood Training of Implicit Nonlinear Diffusion Models](https://openreview.net/forum?id=TQn44YPuOR2)
   - [Consistency Flow Matching: Defining Straight Flows with Velocity Consistency](https://arxiv.org/abs/2407.02398v1)
+  - [Rectified Diffusion: Straightness Is Not Your Need in Rectified Flow](https://arxiv.org/abs/2410.07303)
 <p id="3.4"></p>
 
 ### 4. Autoregressive Models
