@@ -353,6 +353,8 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [DiffRF: Rendering-Guided 3D Radiance Field Diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Muller_DiffRF_Rendering-Guided_3D_Radiance_Field_Diffusion_CVPR_2023_paper.pdf)
     - [DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Wynn_DiffusioNeRF_Regularizing_Neural_Radiance_Fields_With_Denoising_Diffusion_Models_CVPR_2023_paper.pdf)
     - [3D Neural Field Generation using Triplane Diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Shue_3D_Neural_Field_Generation_Using_Triplane_Diffusion_CVPR_2023_paper.pdf)
+    - [Semantic Score Distillation Sampling for Compositional Text-to-3D Generation](https://arxiv.org/abs/2410.09009)
+    - [Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis](https://arxiv.org/abs/2410.07155)
 <p id="2.1.5"></p >
 
   - Anomaly Detection
@@ -384,6 +386,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - Time Series Forecasting
     - [Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting](http://proceedings.mlr.press/v139/rasul21a.html)
     - [Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models](https://arxiv.org/abs/2208.09399)
+    - [Retrieval-Augmented Diffusion Models for Time Series Forecasting](https://arxiv.org/abs/2410.18712)
 <p id="2.3.3"></p >
 
   - Waveform Signal Processing
@@ -431,6 +434,8 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes](https://arxiv.org/abs/2311.13384)
     - [GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models](https://arxiv.org/abs/2310.08529)
     - [IPDreamer: Appearance-Controllable 3D Object Generation with Complex Image Prompts](https://arxiv.org/pdf/2310.05375)
+    - [Semantic Score Distillation Sampling for Compositional Text-to-3D Generation](https://arxiv.org/abs/2410.09009)
+    - [Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis](https://arxiv.org/abs/2410.07155)
 <p id="2.4.3"></p >
 
   - Scene Graph/Layout to Image Generation
