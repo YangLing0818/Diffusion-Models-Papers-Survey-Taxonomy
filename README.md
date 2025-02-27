@@ -124,6 +124,8 @@ Sampling in Around 10 Step](https://arxiv.org/abs/2206.00927)
 [Structure-Guided Adversarial Training of Diffusion Models](https://arxiv.org/abs/2402.17563)
 
 [Consistency Flow Matching: Defining Straight Flows with Velocity Consistency](https://arxiv.org/abs/2407.02398v1)
+
+[Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening](https://arxiv.org/abs/2502.12146)
 <p id="1.1.2"></p >
 
 #### 1.2 Learning-Based Sampling
@@ -142,6 +144,8 @@ sample quality](https://openreview.net/forum?id=VFBjuF8HEp)
 [Progressive Distillation for Fast Sampling of Diffusion Models](https://openreview.net/forum?id=TIdIXIpzhoI)
 
 [Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed](https://arxiv.org/abs/2101.02388)
+
+[Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening](https://arxiv.org/abs/2502.12146)
 <p id="1.1.2.3"></p >
 
 ##### 1.2.3 Truncated Diffusion
@@ -282,6 +286,8 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
 [ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation](https://arxiv.org/abs/2304.05977)
 
 [IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation](https://arxiv.org/abs/2410.07171)
+
+[Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening](https://arxiv.org/abs/2502.12146)
 <p id="2"></p>
 
 ## Application Taxonomy
@@ -319,6 +325,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation](https://arxiv.org/abs/2410.07171)
     - [Consistency Flow Matching: Defining Straight Flows with Velocity Consistency](https://arxiv.org/abs/2407.02398v1)
     - [Rectified Diffusion: Straightness Is Not Your Need in Rectified Flow](https://arxiv.org/abs/2410.07303)
+    - [Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening](https://arxiv.org/abs/2502.12146)
 <p id="2.1.2"></p >
 
   - Semantic Segmentation
@@ -421,6 +428,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation](https://arxiv.org/abs/2410.07171)
     - [Consistency Flow Matching: Defining Straight Flows with Velocity Consistency](https://arxiv.org/abs/2407.02398v1)
     - [Rectified Diffusion: Straightness Is Not Your Need in Rectified Flow](https://arxiv.org/abs/2410.07303)
+    - [Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening](https://arxiv.org/abs/2502.12146)
 <p id="2.4.2"></p >
 
   - Text-to-3D Generation
