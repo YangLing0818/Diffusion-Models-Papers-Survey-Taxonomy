@@ -358,6 +358,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [I2vgen-xl: High-quality image-to-video synthesis via cascaded diffusion models](https://arxiv.org/abs/2311.04145)
     - [Lumiere: A space-time diffusion model for video generation](https://arxiv.org/abs/2401.12945)
     - [VideoTetris: Towards Compositional Text-To-Video Generation](https://arxiv.org/abs/2406.04277)
+    - [DriveVA: Video Action Models are Zero-Shot Drivers](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) (ECCV 2026) [[Code](https://github.com/xiaomi-mlab/DriveVA)]
 <p id="2.1.4"></p >
 
   - 3D Generation
