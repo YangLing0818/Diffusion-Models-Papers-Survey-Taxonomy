@@ -358,6 +358,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
     - [I2vgen-xl: High-quality image-to-video synthesis via cascaded diffusion models](https://arxiv.org/abs/2311.04145)
     - [Lumiere: A space-time diffusion model for video generation](https://arxiv.org/abs/2401.12945)
     - [VideoTetris: Towards Compositional Text-To-Video Generation](https://arxiv.org/abs/2406.04277)
+    - [Motion-aware generative frame interpolation](https://link.springer.com/article/10.1007/s11432-025-4920-3) ([arXiv](https://arxiv.org/abs/2501.03699), [code](https://github.com/MCG-NJU/MoG-VFI))
 <p id="2.1.4"></p >
 
   - 3D Generation
