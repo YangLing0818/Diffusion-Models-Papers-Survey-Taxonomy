@@ -394,6 +394,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933)
   - [MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/abs/2505.15809)
   - [Revolutionizing reinforcement learning framework for diffusion large language models](https://arxiv.org/abs/2509.06949)
+  - [Empirical Analysis of Decoding Biases in Masked Diffusion Models](https://aclanthology.org/2026.acl-long.311/)
  
 <p id="2.3"></p>
 
